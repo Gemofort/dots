@@ -2,4 +2,4 @@
 dots-geometry stuff
 
 ### npm start to start project
-### npm run build tu build .exe file
+### npm run build to build .exe file
